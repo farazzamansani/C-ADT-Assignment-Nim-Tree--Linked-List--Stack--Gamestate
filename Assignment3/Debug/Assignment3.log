@@ -1,0 +1,13 @@
+﻿  tNode.c
+  stack.c
+  node.c
+  gameTree.c
+c:\users\faraz\downloads\github stuff\c-adt-assignment-nim-tree--linked-list--stack--gamestate\assignment3\gametree.c(150): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+c:\users\faraz\downloads\github stuff\c-adt-assignment-nim-tree--linked-list--stack--gamestate\assignment3\gametree.c(150): warning C4024: 'init_gameTree': different types for formal and actual parameter 4
+c:\users\faraz\downloads\github stuff\c-adt-assignment-nim-tree--linked-list--stack--gamestate\assignment3\gametree.c(179): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+c:\users\faraz\downloads\github stuff\c-adt-assignment-nim-tree--linked-list--stack--gamestate\assignment3\gametree.c(179): warning C4024: 'init_gameTree': different types for formal and actual parameter 4
+  gameState.c
+  assig_three215.c
+  Generating Code...
+  Assignment3.vcxproj -> C:\Users\faraz\Downloads\github stuff\C-ADT-Assignment-Nim-Tree--Linked-List--Stack--Gamestate\Debug\Assignment3.exe
+  Assignment3.vcxproj -> C:\Users\faraz\Downloads\github stuff\C-ADT-Assignment-Nim-Tree--Linked-List--Stack--Gamestate\Debug\Assignment3.pdb (Partial PDB)
